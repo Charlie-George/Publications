@@ -2,7 +2,7 @@
 
 ### Policy outputs: 
 
-- Contributed to:
+- Contributed via interview to:
   - **POSTnote 697: Data science skills in the UK workforce.** 2023. [link](https://doi.org/10.58248/PN697)
 - Co-author of: 
   - **XNET Recommendations for UK research funders: Sweeping away barriers to interdisciplinary research.** March 2024. [link]( https://x-net.bio/report)
