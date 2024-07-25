@@ -1,4 +1,4 @@
-# Publications
+# Summary of research outputs
 
 ### Policy outputs: 
 
@@ -11,6 +11,7 @@
 - Co-organiser of the following workshops (responsible for workshop development, participant recruitment, and review of final report): 
   - **Preparing the roadmap: prioritising cross-disciplinary training needs with industry.** 2023. Report by E Woolen [link](http://dx.doi.org/10.7488/era/3312)
   - **PPI workshop: “Creating & Nurturing Diverse Teams for Effective Biomedical Science".** 2023. [link](https://x-net.bio/workshops/ppi-workshop-creating-nurturing-diverse-teams-effective-biomedical-science)
+
 
 ### Research Publications
 
