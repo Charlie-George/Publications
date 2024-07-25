@@ -6,7 +6,7 @@
   - **POSTnote 697: Data science skills in the UK workforce.** 2023. [link](https://doi.org/10.58248/PN697)
 - Co-author of: 
   - **XNET Recommendations for UK research funders: Sweeping away barriers to interdisciplinary research.** 2024. [link]( https://x-net.bio/report)
-  - **HEPI Blog Post** [in press] 
+  - **HEPI Blog Post**. 2024 [link](https://www.hepi.ac.uk/2024/07/23/its-time-to-change-the-culture-around-interdisciplinary-research/)
   - **Workshop report: Lessons from Equality Diversity and Inclusion: How to improve Interdisciplinary Research Culture - Recommendations for research institutes.** 2024. [report in preparation].
 - Co-organiser of the following workshops: 
   - **Preparing the roadmap: prioritising cross-disciplinary training needs with industry.** 2023. Report by E Woolen [link](http://dx.doi.org/10.7488/era/3312)
