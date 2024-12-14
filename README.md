@@ -7,7 +7,7 @@
 - Co-author of: 
   - **XNET Recommendations for UK research funders: Sweeping away barriers to interdisciplinary research.** March 2024. [link]( https://x-net.bio/report)
   - **HEPI Blog Post**. July 2024. [link](https://www.hepi.ac.uk/2024/07/23/its-time-to-change-the-culture-around-interdisciplinary-research/)
-  - **Workshop report: Lessons from Equality Diversity and Inclusion: How to improve Interdisciplinary Research Culture - Recommendations for research institutes.** 2024. [report in preparation].
+  - **Workshop report: Lessons from Equality Diversity and Inclusion: How to improve Interdisciplinary Research Culture - Recommendations for research institutes.** 2024. [link](https://era.ed.ac.uk/bitstream/handle/1842/42153/EDI_Report_FINAL%2010-10-2024_withPNG.pdf?sequence=3&isAllowed=y).
 - Co-organiser of the following workshops (responsible for workshop development, participant recruitment, and review of final report): 
   - **Preparing the roadmap: prioritising cross-disciplinary training needs with industry.** 2023. Report by E Woolen [link](http://dx.doi.org/10.7488/era/3312)
   - **PPI workshop: “Creating & Nurturing Diverse Teams for Effective Biomedical Science".** 2023. [link](https://x-net.bio/workshops/ppi-workshop-creating-nurturing-diverse-teams-effective-biomedical-science)
