@@ -11,16 +11,13 @@
 - Co-organiser of the following workshops (responsible for workshop development, participant recruitment, and review of final report): 
   - **Preparing the roadmap: prioritising cross-disciplinary training needs with industry.** 2023. Report by E Woolen [link](http://dx.doi.org/10.7488/era/3312)
   - **PPI workshop: “Creating & Nurturing Diverse Teams for Effective Biomedical Science".** 2023. [link](https://x-net.bio/workshops/ppi-workshop-creating-nurturing-diverse-teams-effective-biomedical-science)
-
-Type
-Review
-Journal
-BMC Nephrology
+- Academic Publications
+  - **The State of Kidney Data Science in the UK.**
+  Cantelli G, Bell S, **George C**, Fotheringham J, Green A, Hellewell L, Jones AR, Lewington A, Oates T, Pierce B, Plummer Z, Nitsch D, Saez-Rodriguez J,  Wheeler D, Crosby D. *BMC Nephrology* *[In review]*  
 
 
 ### Research Publications
-- **The State of Kidney Data Science in the UK.**
-  Cantelli G, Bell S, **George C**, Fotheringham J, Green A, Hellewell L, Jones AR, Lewington A, Oates T, Pierce B, Plummer Z, Nitsch D, Saez-Rodriguez J,  Wheeler D, Crosby D. *BMC Nephrology* *[In review]*
+
 - **Nucleotide resolution 4-thiouridine sequencing by SNU-Seq and sf4sU-Seq reveals the transcriptional responsiveness of an epigenetically primed human genome.**
   Gerlevik U, Lorenz P, Lamstaes A, Fischl H, Xi S, Saukko-Paavola A, Murray S, Brown T, Welch A, **George C**, Angel A, Furger A, Mellor J.
   2026. *Nucleic Acids Res 54(12)* [doi: 10.1093/nar/gkag652](https://doi.org/10.1093/nar/gkag652)
